@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 EHUEHEUHE
+=======
+>>>>>>> parent of d99bfa0... yazı ekledim
